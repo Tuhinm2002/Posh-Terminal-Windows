@@ -1,6 +1,9 @@
 # Posh-Terminal-Windows
 
 ## ScreenShots
+![Screenshot (1)](https://user-images.githubusercontent.com/75078694/222969408-36dbcd8a-1c52-46af-8063-3193982b5294.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/75078694/222969412-d0294a22-ce52-405c-9d0c-8863ebd76546.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/75078694/222969414-30f650d8-f435-4303-a1df-fc1e1f867c35.png)
 
 
 👉 Install the New PowerShell from Microsoft Store 📜🪛🪟
