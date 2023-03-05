@@ -5,9 +5,11 @@
 https://www.nerdfonts.com/
 
 👉 First Commmand 📜
+
 `Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))`
 
 👉 Second Command 📜
+
 `Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))`
 
 👉 Third Command 📜
